@@ -32,27 +32,5 @@ This repository focuses on analyzing trends and insights within a car sales data
 - Matplotlib
 - Seaborn
 
-## Usage
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/your-username/car-sales-analysis.git
-```
-
-2. **Navigate to the project directory:**
-
-```bash
-cd car-sales-analysis
-```
-
-3. **Run the Jupyter Notebook:**
-
-```bash
-jupyter notebook
-```
-
-Open the notebook named and run each cell to execute the data analysis.
-
 Feel free to explore, contribute, and use this project for your data analysis endeavors!
 
