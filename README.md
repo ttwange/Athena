@@ -32,5 +32,6 @@ This repository focuses on analyzing trends and insights within a car sales data
 - Matplotlib
 - Seaborn
 
+**Link to dataset: https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles
 Feel free to explore, contribute, and use this project for your data analysis endeavors!
 
